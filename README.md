@@ -29,7 +29,7 @@ LoadingDialog loadingDialog = new LoadingDialog(Activity.this);
 loadingDialog.setLoadImage(R.drawable.loading);
 loadingDialog.show();
 //to dissmis use: loadingDialog.hide();
-``
+```
 
 ## Methods
 
