@@ -17,7 +17,7 @@ This class are tested with API 16 - 28, so i think it will be compatible with al
 
 How to install [here.](https://github.com/bumptech/glide)
 
-**Import [LoadingDialog.java](https://github.com/tuliocll/Android-Easy-Loading-Dialog/LoadingDialog.java) and [custom_loading_dialog_layout.xml](https://github.com/tuliocll/Android-Easy-Loading-Dialog/custom_loading_dialog_layout.xml)**
+**Import [LoadingDialog.java](https://github.com/tuliocll/Android-Easy-Loading-Dialog/blob/master/LoadingDialog.java) and [custom_loading_dialog_layout.xml](https://github.com/tuliocll/Android-Easy-Loading-Dialog/blob/master/custom_loading_dialog_layout.xml)**
 
 **Import a GIF to you Drawable folder [(sample free loading gifs)](https://www.behance.net/gallery/31234507/Open-source-Loading-GIF-Icons-Vol-1)**
 
